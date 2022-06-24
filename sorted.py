@@ -13,3 +13,4 @@ print(sorted(["Sue", "jerry", "linda"]))
 print(sorted("My favorite child is Linda".split(), key=str.upper))#key=str.upper now it doesn´t matter if upper or lowercase.
 print(sorted(points_in_a_game, reverse=True))
 
+ 
