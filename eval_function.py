@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # the input function returns a *string* of whatever the user input
 a = input("Type some input: ")
 print("input: {}, is type of {} ".format(a, type(a) ) )
